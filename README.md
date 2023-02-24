@@ -9,3 +9,5 @@
 # **git merge**
 
 \*A powerful way to integrate changes from divergent branches. After forking the project history with git branch, git merge lets you put it back together again.
+/HYF/hyf-html-exercises/week2/favorite-cmd-commands
+week2/favorite-cmd-commands
